@@ -10,7 +10,9 @@ public class Calculator {
 	 * @return int
 	 */
 	public int add(int i, int j){
+		string s == null;
 		return i+j;
+		return s.length();
 	}
 	public int multiply(int i, int j){
 		return i*j;
